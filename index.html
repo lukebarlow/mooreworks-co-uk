@@ -95,6 +95,7 @@ text.selected {
     stroke: #786868;
     stroke-width:3;
     cursor:pointer;
+
 }
 
 .dot.selected {
@@ -245,17 +246,15 @@ function init(){
             .data(sections)
             .enter()
             .append('g').attr('class','section')
-            .attr('transform', function(d,i){
-                return 'translate(' + ((i * 30) + 25) + ',0)'
-            })
-
+            
         // the text links
         section.append('text')
             .attr('width',300)
             .attr('height',100)
-            .attr('x',-140)
-            .attr('y',0)
-            .attr('transform', 'rotate(-90)')
+            .attr('x',0)
+            .attr('y',function(d,i) {
+                return i*40+30
+            })
             .classed('selected', function(d,i){ return i == selectedSectionIndex})
             .on('click', function(d,i){
                 if (i != selectedSectionIndex){
