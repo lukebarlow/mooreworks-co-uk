@@ -90,7 +90,7 @@ text.selected {
     
 }
 
-.dot {
+/*.dot {
     fill: #aa7300;
     stroke: #786868;
     stroke-width:3;
@@ -101,7 +101,7 @@ text.selected {
     fill:white;
     stroke: #71d4f3;
     stroke-opacity:0.8;
-}
+}*/
 
 .greyOut {
     position:fixed;
@@ -282,10 +282,10 @@ function init(){
                     return j == selectedSectionIndex
                 })
 
-            section.selectAll('dot')
+           /* section.selectAll('dot')
                 .classed('selected', function(d, i, j){ 
                     return d < 3 && j == selectedSectionIndex
-                })
+                })  */
 
         }
 
@@ -305,7 +305,7 @@ function init(){
             return tops.length
         }
 
-        function drawDots(){
+        /*function drawDots(){
             rows = countRows()
             thumbnailsPerRow = Math.ceil(sections[selectedSectionIndex].children.length / rows)
 
@@ -339,7 +339,7 @@ function init(){
                     })
                 setVisibleRows()
             })
-        }
+        }*/
 
         function setVisibleRows(){
             tops = getRowTops()
@@ -385,10 +385,10 @@ function init(){
 
         var scroller = scrollTransition()
 
-        window.onresize = drawDots
+        //window.onresize = drawDots
         window.onscroll = setVisibleRows
 
-        drawDots()
+        //drawDots()
 
         function nextSection(){
 
