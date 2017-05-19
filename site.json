@@ -1,6 +1,6 @@
 [
     {
-        "name": "Works",
+        "name": "Contact",
         "type": "folder",
         "children": [
             {
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "name": "Make",
+        "name": "Work",
         "type": "folder",
         "children": [
             {
@@ -451,7 +451,7 @@
         ]
     },
     {
-        "name": "Sam",
+        "name": "Products",
         "type": "folder",
         "children": [
             {
