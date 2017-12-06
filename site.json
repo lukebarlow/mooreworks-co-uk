@@ -451,11 +451,7 @@
         ]
     },
     {
-<<<<<<< HEAD
-        "name": "Products",
-=======
         "name": "Shop",
->>>>>>> Products -> Shop
         "type": "folder",
         "children": [
             {
