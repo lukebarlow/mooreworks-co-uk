@@ -67,6 +67,10 @@ body {
   padding-top: 60px;
   font-size: 20px;
   font-family: tcm;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin-top: 40px;
+  width: 400px;
 }
 
 .product-description {
