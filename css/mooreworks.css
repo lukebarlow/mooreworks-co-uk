@@ -107,8 +107,6 @@ body {
   height:600px;
 }
 
-
-
 #thumbnails span {
   display:inline-block;
   width:300px;
@@ -251,7 +249,7 @@ text.selected {
   font-weight: bold;
 }
 
-#background-left a:hover {
+#background-left a:hover, #background-left a.selected {
   text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
 }
 
