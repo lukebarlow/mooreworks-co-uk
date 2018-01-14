@@ -1,3 +1,13 @@
+@font-face {
+  font-family: tcm;
+  src: url(tcm.ttf);
+}
+
+@font-face {
+  font-family: yoorostyle;
+  src: url(eurostile.ttf);
+}
+
 body, html {
   height:100%;
 }
@@ -25,7 +35,7 @@ body {
 #header-name {
   padding-top: 30px;
   font-size: 40px;
-  font-family: futura;
+  font-family: tcm;
   white-space: nowrap;
 }
 
@@ -34,7 +44,7 @@ body {
   font-size: 130px;
   text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
   font-weight: bold;
-  font-family: eurostile;
+  font-family: yoorostyle;
   letter-spacing: 7px;
   white-space: nowrap;
   padding-right: 10px;
@@ -48,7 +58,7 @@ body {
 #header-tagline {
   padding-top: 5px;
   font-size: 25px;
-  font-family: futura;
+  font-family: tcm;
   letter-spacing: 7.7px;
   white-space: nowrap;
 }
@@ -56,11 +66,11 @@ body {
 #contact-details {
   padding-top: 60px;
   font-size: 20px;
-  font-family: futura;
+  font-family: tcm;
 }
 
 .product-description {
-  font-family: futura;
+  font-family: tcm;
   font-size: 18px;
   color: white;
   vertical-align: top;
@@ -229,11 +239,11 @@ text.selected {
 }
 
 #background-left a {
-  color: white;
+  color: #fdfdfd;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 30px;
   line-height: 50px;
-  font-family: futura;
+  font-family: tcm;
   font-weight: bold;
 }
 
