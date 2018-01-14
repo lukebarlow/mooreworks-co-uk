@@ -1,550 +1,338 @@
 [
-    {
-        "name": "Contact",
+  {
+    "name": "Works",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
-            {
-                "name": "Avoch Lazy Corner",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Acoch Lazy Corner (2).JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (3).JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (4).JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (5).jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (6).jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (7).jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (8).JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Acoch Lazy Corner (9).JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Avoch Lazy Corner dwg.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Avoch Lazy corner thumb.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Candle Holders",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "candle holders thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "slate and steel candle holders1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "slate and steel candle holders2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "slate and steel candle holders3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "steel drop candle holders.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Chiminea BBQ",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "ChmBBQ thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "ChmBBQ-1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "ChmBBQ-2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "KM chim 1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "KM chim 2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "KM chim 3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brazier 1.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Companion sets",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "companion set thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "companion set1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "companion set2.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Croft 103",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "LC1 bed detail.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC1 shelf.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC1bed detail.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC1bed&shelf.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC1doorhandle.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC1thumb.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Croft 103 Gate",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "LC2 gate detail.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC2 gate detail2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC2 gates.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC2 gates2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "LC2 thumb.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Eagle",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Eagle thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Eagle1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Eagle2.JPG",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Gates and Railings",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Dr Findlaysons gate.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Lubecroy Gate.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Puffin Railing sketch.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Puffin Railing1.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Railing 3-1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Railing 3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Railing 4.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Railing thumb.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "morgan railing 1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "morgan railing 2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "morgan railing 3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "morgan railing 4.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "morgan railing 5.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Inchnadamph Fireplaces",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Inchnadamph thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Inchnadamph trug and guard.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Inchnadamph trug and guard2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Inchnadamph trug1.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Lotte Gate",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Lotte Gate thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Lotte Gate-1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Lotte Gate-2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Lotte Studio Entrance.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "lotte gate sketch.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "lotte gate-z.JPG",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Mackay Bathroom",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "mackay bath thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mackay bath.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mackay bath2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mackay bath3.jpg",
-                        "type": "file"
-                    }
-                ]
-            }
+          {
+            "name": "Acoch Lazy Corner (2).JPG",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (3).JPG",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (4).JPG",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (5).jpg",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (6).jpg",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (7).jpg",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (8).JPG",
+            "type": "file"
+          },
+          {
+            "name": "Acoch Lazy Corner (9).JPG",
+            "type": "file"
+          },
+          {
+            "name": "Avoch Lazy Corner dwg.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Avoch Lazy corner thumb.jpg",
+            "type": "file"
+          }
         ]
-    },
-    {
-        "name": "Work",
+      },
+      {
+        "name": "Candle Holders",
         "type": "folder",
         "children": [
-            {
-                "name": "Abertaf Bench",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Abertaf Bench1.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Abertaf Bench2.JPG",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Abertaf bench thumb.JPG",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Bill's Boat",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Bills Boat-1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-4.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-5.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-6.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Bills Boat-thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Scoraig Sea Sled.youtube",
-                        "type": "file",
-                        "youtubeId": "4Szl-8kKKUE"
-                    }
-                ]
-            },
-            {
-                "name": "Mermaid and Brain",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Making the Mermaid Part 1.youtube",
-                        "type": "file",
-                        "youtubeId": "0pYgtLPyH6s"
-                    },
-                    {
-                        "name": "Making the Mermaid Part 2.youtube",
-                        "type": "file",
-                        "youtubeId": "0dj9DPUvGkk"
-                    },
-                    {
-                        "name": "brain final1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brain final2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brain final3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brain progress1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brain progress2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "brain thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mermaid final1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mermaid final2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "mermaid final3.jpg",
-                        "type": "file"
-                    }
-                ]
-            }
+          {
+            "name": "candle holders thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "slate and steel candle holders1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "slate and steel candle holders2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "slate and steel candle holders3.jpg",
+            "type": "file"
+          },
+          {
+            "name": "steel drop candle holders.jpg",
+            "type": "file"
+          }
         ]
-    },
-    {
-        "name": "Shop",
+      },
+      {
+        "name": "Chiminea BBQ",
         "type": "folder",
         "children": [
-            {
-                "name": "Ae Dome",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Ae Composite.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome 1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome 100ft freespan.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome construction method.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome construction.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome interior.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome model.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Ae Dome thumb.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Hygeia",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "Hygiea thumb.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Hygiea1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Hygiea2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Hygiea3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "Hygiea4.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Marble bowl",
-                "type": "folder",
-                "children": [
-                    {
-                        "name": "marble bowl 1.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "marble bowl 2.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "marble bowl 3.jpg",
-                        "type": "file"
-                    },
-                    {
-                        "name": "marble bowl thumb.jpg",
-                        "type": "file"
-                    }
-                ]
-            },
-            {
-                "name": "Contact Details",
-                "type": "html",
-                "elementId" : "contact-details"
-            }
+          {
+            "name": "ChmBBQ thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "ChmBBQ-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "ChmBBQ-2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "KM chim 1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "KM chim 2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "KM chim 3.jpg",
+            "type": "file"
+          },
+          {
+            "name": "brazier 1.jpg",
+            "type": "file"
+          }
         ]
-    }
+      },
+      {
+        "name": "Companion sets",
+        "type": "folder",
+        "children": [
+          {
+            "name": "companion set thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "companion set1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "companion set2.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Croft 103",
+        "type": "folder",
+        "children": [
+          {
+            "name": "LC1 bed detail.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC1 shelf.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC1bed detail.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC1bed&shelf.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC1doorhandle.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC1thumb.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Croft 103 Gate",
+        "type": "folder",
+        "children": [
+          {
+            "name": "LC2 gate detail.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC2 gate detail2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC2 gates.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC2 gates2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "LC2 thumb.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Eagle",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Eagle thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Eagle1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Eagle2.JPG",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Gates and Railings",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Dr Findlaysons gate.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Lubecroy Gate.JPG",
+            "type": "file"
+          },
+          {
+            "name": "Puffin Railing sketch.JPG",
+            "type": "file"
+          },
+          {
+            "name": "Puffin Railing1.JPG",
+            "type": "file"
+          },
+          {
+            "name": "Railing 3-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Railing 3.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Railing 4.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Railing thumb.JPG",
+            "type": "file"
+          },
+          {
+            "name": "morgan railing 1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "morgan railing 2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "morgan railing 3.jpg",
+            "type": "file"
+          },
+          {
+            "name": "morgan railing 4.jpg",
+            "type": "file"
+          },
+          {
+            "name": "morgan railing 5.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Inchnadamph Fireplaces",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Inchnadamph thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Inchnadamph trug and guard.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Inchnadamph trug and guard2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Inchnadamph trug1.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Gate",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Lotte Gate thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Lotte Gate-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Lotte Gate-2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "Lotte Studio Entrance.JPG",
+            "type": "file"
+          },
+          {
+            "name": "lotte gate sketch.jpg",
+            "type": "file"
+          },
+          {
+            "name": "lotte gate-z.JPG",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Mackay Bathroom",
+        "type": "folder",
+        "children": [
+          {
+            "name": "mackay bath thumb.jpg",
+            "type": "file"
+          },
+          {
+            "name": "mackay bath.jpg",
+            "type": "file"
+          },
+          {
+            "name": "mackay bath2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "mackay bath3.jpg",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
 ]

@@ -1,0 +1,3 @@
++ navigation links
++ logo takes you back to index
++ revise products
