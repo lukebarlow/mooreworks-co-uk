@@ -73,6 +73,11 @@ body {
   width: 400px;
 }
 
+#contact-details td {
+  font-size: 24px;
+  color: white;
+}
+
 .product-description {
   font-family: tcm;
   font-size: 18px;
@@ -260,4 +265,17 @@ text.selected {
   width: 100px;
   height: 80px;
   cursor: pointer;
+}
+
+.email {
+  font-size: 30px;
+}
+
+.at-sign {
+  font-size: 20px;
+}
+
+.facebook-logo {
+  float: right;
+  vertical-align: bas;
 }
