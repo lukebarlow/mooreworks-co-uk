@@ -4,6 +4,36 @@
     "type": "folder",
     "children": [
       {
+        "name": "Fishtail",
+        "type": "folder",
+        "children": [
+          {
+            "name": "welding.jpg",
+            "type": "file"
+          },
+          {
+            "name": "welding-2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "nighttime.jpg",
+            "type": "file"
+          },
+          {
+            "name": "nighttime-2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "final.jpg",
+            "type": "file"
+          },
+          {
+            "name": "detail.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
         "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
@@ -50,32 +80,6 @@
         ]
       },
       {
-        "name": "Candle Holders",
-        "type": "folder",
-        "children": [
-          {
-            "name": "candle holders thumb.jpg",
-            "type": "file"
-          },
-          {
-            "name": "slate and steel candle holders1.jpg",
-            "type": "file"
-          },
-          {
-            "name": "slate and steel candle holders2.jpg",
-            "type": "file"
-          },
-          {
-            "name": "slate and steel candle holders3.jpg",
-            "type": "file"
-          },
-          {
-            "name": "steel drop candle holders.jpg",
-            "type": "file"
-          }
-        ]
-      },
-      {
         "name": "Chiminea BBQ",
         "type": "folder",
         "children": [
@@ -105,24 +109,6 @@
           },
           {
             "name": "brazier 1.jpg",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "Companion sets",
-        "type": "folder",
-        "children": [
-          {
-            "name": "companion set thumb.jpg",
-            "type": "file"
-          },
-          {
-            "name": "companion set1.jpg",
-            "type": "file"
-          },
-          {
-            "name": "companion set2.jpg",
             "type": "file"
           }
         ]
