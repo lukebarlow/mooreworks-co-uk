@@ -102,6 +102,28 @@
         ]
       },
       {
+        "name": "More Gates and Signs",
+        "type": "folder",
+        "children": [
+          {
+            "name": "lairg-community-centre.jpg",
+            "type": "file"
+          },
+          {
+            "name": "gate.jpg",
+            "type": "file"
+          },
+          {
+            "name": "findhorn-sands.jpg",
+            "type": "file"
+          },
+          {
+            "name": "woodhill.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
         "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
