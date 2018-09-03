@@ -52,6 +52,16 @@
         ]
       },
       {
+        "name": "Kyle of Sutherland",
+        "type": "folder",
+        "children": [
+          {
+            "name": "final.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
         "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
