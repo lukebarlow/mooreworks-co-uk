@@ -88,6 +88,20 @@
         ]
       },
       {
+        "name": "Leaf Lights",
+        "type": "folder",
+        "children": [
+          {
+            "name": "one.jpg",
+            "type": "file"
+          },
+          {
+            "name": "two.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
         "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
