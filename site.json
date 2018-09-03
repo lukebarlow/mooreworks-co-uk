@@ -8,6 +8,10 @@
         "type": "folder",
         "children": [
           {
+            "name": "final.jpg",
+            "type": "file"
+          },
+          {
             "name": "welding.jpg",
             "type": "file"
           },
@@ -24,11 +28,25 @@
             "type": "file"
           },
           {
-            "name": "final.jpg",
+            "name": "detail.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Findhorn Sands",
+        "type": "folder",
+        "children": [
+          {
+            "name": "wave-fence-1.jpg",
             "type": "file"
           },
           {
-            "name": "detail.jpg",
+            "name": "wave-fence-2.jpg",
+            "type": "file"
+          },
+          {
+            "name": "wave-fence-3.jpg",
             "type": "file"
           }
         ]
@@ -293,28 +311,6 @@
           },
           {
             "name": "lotte gate-z.JPG",
-            "type": "file"
-          }
-        ]
-      },
-      {
-        "name": "Mackay Bathroom",
-        "type": "folder",
-        "children": [
-          {
-            "name": "mackay bath thumb.jpg",
-            "type": "file"
-          },
-          {
-            "name": "mackay bath.jpg",
-            "type": "file"
-          },
-          {
-            "name": "mackay bath2.jpg",
-            "type": "file"
-          },
-          {
-            "name": "mackay bath3.jpg",
             "type": "file"
           }
         ]
