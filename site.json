@@ -120,6 +120,10 @@
           {
             "name": "woodhill.jpg",
             "type": "file"
+          },
+          {
+            "name": "lockharts.jpg",
+            "type": "file"
           }
         ]
       },
