@@ -62,6 +62,32 @@
         ]
       },
       {
+        "name": "Chimenea 2",
+        "type": "folder",
+        "children": [
+          {
+            "name": "day-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "day-4.jpg",
+            "type": "file"
+          },
+          {
+            "name": "pizza-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "seat-1.jpg",
+            "type": "file"
+          },
+          {
+            "name": "drawing.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
         "name": "Avoch Lazy Corner",
         "type": "folder",
         "children": [
