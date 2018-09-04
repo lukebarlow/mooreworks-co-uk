@@ -98,6 +98,10 @@
           {
             "name": "two.jpg",
             "type": "file"
+          },
+          {
+            "name": "bar.jpg",
+            "type": "file"
           }
         ]
       },
@@ -387,6 +391,30 @@
           },
           {
             "name": "lotte gate-z.JPG",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Marble Bowl",
+        "type": "folder",
+        "children": [
+          {
+            "name": "marble-bowl.jpg",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Tulips",
+        "type": "folder",
+        "children": [
+          {
+            "name": "tulips.jpg",
+            "type": "file"
+          },
+          {
+            "name": "tulips-close.jpg",
             "type": "file"
           }
         ]
